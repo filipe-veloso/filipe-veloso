@@ -1,6 +1,3 @@
-
-- 👋 Oi, eu sou o @filipe-veloso
-- 👀 Estou interessado em aprender
 - 📚 Estudante de Tecnologia da Computação na UFF
 - 🌱 Estou aprendendo sobre HTML, CSS, Javascript.
 
