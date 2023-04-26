@@ -1,4 +1,4 @@
-- 📚 Estudante de Tecnologia da Computação na UFF
+- 📚 Estudante de Sistemas de Computação na UFF.
 - 🌱 Estou aprendendo sobre HTML, CSS, Javascript.
 
 
